@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f577048-3942-4ec5-9e6e-2387872eea4c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tf2_basic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deep-learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deep-learning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="9f577048-3942-4ec5-9e6e-2387872eea4c" name="Changes" comment="add new code about how to use tensor and use seaborn dataset">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MLP.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLP.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,6 +114,15 @@
       <option name="presentableId" value="Default" />
       <updated>1710844269679</updated>
     </task>
+    <task id="LOCAL-00001" summary="add new code about how to use tensor and use seaborn dataset">
+      <option name="closed" value="true" />
+      <created>1711085899781</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711085899781</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,5 +135,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add new code about how to use tensor and use seaborn dataset" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new code about how to use tensor and use seaborn dataset" />
   </component>
 </project>
